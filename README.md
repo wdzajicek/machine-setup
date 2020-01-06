@@ -6,4 +6,6 @@
 - [Typora](https://www.typora.io/#download)
 
 ## Command-line/Terminal things
-- [Upgrade nano](upgrade_nano.md)
+- [GNU nano](./nano/README.md)
+  - [Upgrade nano](./nano/upgrade_nano.md)
+  - [Syntax Highlighting](./nano/syntax_highlighting.md)
