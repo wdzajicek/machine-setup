@@ -19,3 +19,8 @@
     brew install cowsay
     ```
 
+## Fixes to Annoying Mac-Stuff
+
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) allows you to set a different scroll direction for mouse vs. trackpad. No Catalina support yet.
+- Open blank document on TextEdit.app start:
+  - System Preferences > iCloud > iCloud Drive "Options..." button > Uncheck "TextEdit.app" (& "Desktop & Document Folders").
